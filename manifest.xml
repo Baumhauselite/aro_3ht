@@ -1,0 +1,12 @@
+<package>
+  <description brief="aro_3ht">
+
+     aro_3ht
+
+  </description>
+  <author>Gerald</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/aro_3ht</url>
+
+</package>
